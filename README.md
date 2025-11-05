@@ -9,7 +9,7 @@
 
 ---
 
-### 🌟 About Me  
+### 🌟 About Myself 
 - 👨‍💻 Passionate **Full Stack Developer** with a focus on **clean backend logic** and **modern UI**.  
 - 🚀 Skilled in **Java, Python, SQL, React, and Spring Boot**.  
 - 🌱 Currently learning **Cloud Deployment (Docker, AWS)**.  

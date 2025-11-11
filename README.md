@@ -82,7 +82,8 @@
 
 ### 💬 Quote of the Day  
 > “Any fool can write code that a computer can understand.  
-> Good programmers write code that humans can understand.” — Martin Fowler  
+> Good programmers write code that humans can understand.” — Martin Fowler
+> <img src="https://github-readme-streak-stats.herokuapp.com/?user=amittad&theme=tokyonight" height="160"/>
 
 ---
 

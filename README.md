@@ -20,7 +20,7 @@
 
 ### 🧠 Tech Stack & Tools  
 
-#### 💾 Backend  
+#### 💾 Backend 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" />

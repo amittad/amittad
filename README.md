@@ -7,7 +7,7 @@
   <img src="https://github.com/amittad/amittad/blob/main/banner.gif" alt="banner" width="80%"/>
 </p>
 
----
+---   
 
 ### 🌟 About Myself
 - 👨‍💻 Passionate **Full Stack Developer** with a focus on **clean backend logic** and **modern UI**.  

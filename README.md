@@ -4,7 +4,7 @@
 </p>. 
 
 <p align="center">
-  <img src="https://github.com/amittad/amittad/blob/main/banner.gif" alt="banner" width="80%"/>
+  <img  src="https://github.com/amittad/amittad/blob/main/banner.gif" alt="banner" width="80%"/>
 </p>
 
 ---   

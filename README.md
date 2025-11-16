@@ -16,7 +16,7 @@
 - 💬 Ask me about **Java, Spring Boot, Django, or SQL**.  
 - ⚡ I love turning ideas into reality through code.  
 
----
+--- 
 
 ### 🧠 Tech Stack & Tools  
 
